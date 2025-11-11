@@ -5,7 +5,7 @@
 **Jaypocalypse Now** is a lightweight **virus and malware scanner** developed as part of the CSCI150 course project.  
 The goal of the project is to demonstrate a practical application of programming fundamentals — including file I/O, pattern recognition, data structures, and basic cybersecurity principles — by building a simple tool that scans files and directories for suspicious content or signatures.
 
-This tool helps users understand how antivirus software identifies potential threats, using keyword matching, checksum comparison, and heuristic techniques to detect possible infections in files.
+This tool helps users understand how antivirus software identifies potential threats, using keyword matching, checksum comparison, and heuristic techniques to detect possible infections in files.+
 
 ---
 
